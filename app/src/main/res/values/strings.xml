@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ankara Yıldırım Beyazıt University</string>
+    <string name="tab_food_list">Food</string>
+    <string name="tab_announcements">Announcement</string>
+    <string name="tab_news">News</string>
+</resources>
